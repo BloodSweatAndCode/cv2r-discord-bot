@@ -1,0 +1,5 @@
+{
+	"botToken": "your discord bot token",
+	"channel": "the discord channel id to which you want the bot to send messages",
+	"twitch": "your twitch client id"
+}

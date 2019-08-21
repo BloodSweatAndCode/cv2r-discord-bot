@@ -1,0 +1,5 @@
+{
+	"botToken": "CV2R_BOT_TOKEN",
+	"channel": "CV2R_CHANNEL_ID",
+	"twitch": "CV2R_TWITCH_CLIENT_ID"
+}

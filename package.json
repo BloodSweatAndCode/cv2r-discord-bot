@@ -1,0 +1,22 @@
+{
+  "name": "cv2r-discord-bot",
+  "version": "0.0.1",
+  "description": "CV2R Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "castlevania",
+    "cv2r"
+  ],
+  "author": "Tony Lukasavage",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.2.2",
+    "discord.js": "^11.5.1",
+    "twitch": "^3.4.2",
+    "twitch-webhooks": "^3.4.3"
+  }
+}
